@@ -1,0 +1,29 @@
+.shop-now-container {
+  text-align: center;
+  margin: 60px auto 60px auto;
+}
+
+.shop-now-heading {
+  font-family: 'Letterblocks', sans-serif;
+  font-size: 2em;
+  margin: 10px 0;
+}
+
+.shop-now-paragraph {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.shop-now-button {
+  font-size: 1em;
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #FFF;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.shop-now-button:hover {
+  background-color: #0056b3;
+}
