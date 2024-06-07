@@ -6,7 +6,7 @@ function Model() {
   const geometry = useLoader(STLLoader, '/stl/logo.stl');
   
   return (
-    <mesh geometry={geometry} scale={[0.02, 0.02, 0.02]} position={[-3, -2, 0]}>
+    <mesh geometry={geometry} scale={[0.02, 0.02, 0.02]} position={[-3, 0, 0]}>
       <meshStandardMaterial color="orange" />
     </mesh>
   );

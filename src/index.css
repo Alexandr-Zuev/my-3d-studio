@@ -1,9 +1,10 @@
 @import url(../src/vendor/normalize.css);
 @import url(../src/fonts/letterblocks.css);
+@import url(../src/fonts/Poppins.css);
 @import url(../src/components/page/page.css);
 @import url(../src/components/Header/Header.css);
 @import url(../src/components/Main/Main.css);
 @import url(../src/components/Promo/Promo.css);
-@import url(../src/components/Slider/Slider.css);
-@import url(../src/components/ShopNow/ShopNow.css);
+@import url(../src/components/OurServices/OurServices.css);
+@import url(../src/components/AboutUs/AboutUs.css);
 @import url(../src/components/Footer/Footer.css);

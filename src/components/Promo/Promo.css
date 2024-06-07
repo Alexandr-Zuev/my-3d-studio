@@ -1,56 +1,51 @@
-
-.promo-container {
+.promo {
+  position: relative;
+  background: linear-gradient(0.00deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3) 100%), url('https://cdn.b12.io/media/9ae67356-3c8e-11e8-9369-0242ac11000f-apple-desk-office-working-8841-hero_image.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 800px;
   display: flex;
-  justify-content: space-between;
+  width: 100%;
+  justify-content: start;
   align-items: center;
-  background-color: #f0f0f0;
 }
 
-.promo-text-container {
-  max-width: 50%;
+.promo__text-container {
+  width: 600px;
+  margin-left: 100px;
+  
 }
 
-.promo-title {
-  font-size: 2.5em;
-  margin-bottom: 20px;
+.promo__title {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 77.5px;
+  letter-spacing: 0%;
+  text-align: center;
 }
 
-.promo-subtitle {
-  font-size: 1.2em;
-  margin-bottom: 20px;
-  display: flex;
-  flex-direction: column;
+.promo__subtitle {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: center;
 }
 
-.promo-subtitle p {
-  margin-left: 0;
-}
-
-.promo-subtitle ul {
-  text-align: left;
-  margin-left: 60px;
-}
-
-.promo-subtitle li {
-  margin-left: 0;
-  margin-right: auto;
-}
-
-.promo-button {
+.promo__button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #007BFF;
-  border-radius: 15px;
+  background-color: #32aa27;
   color: white;
   text-decoration: none;
-  transition: background-color 0.3s ease;
+  border-radius: 15px;
+  transition: background-color 0.3s ease-in-out;
 }
 
-.promo-button:hover {
-  background-color: #2980b9;
-}
-
-.promo-model-container {
-  width: 50%;
-  height: 500px;
+.promo__button:hover {
+  background-color: #288c20;
 }
