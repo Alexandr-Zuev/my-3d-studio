@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-3d-studio/static/css/main.c64b77ed.css",
-    "main.js": "/my-3d-studio/static/js/main.097d376a.js",
+    "main.js": "/my-3d-studio/static/js/main.ed4d63a2.js",
     "static/js/453.b20a2384.chunk.js": "/my-3d-studio/static/js/453.b20a2384.chunk.js",
     "static/media/img-2.png": "/my-3d-studio/static/media/img-2.345b6ad17bf0532a7514.png",
     "static/media/img-3.png": "/my-3d-studio/static/media/img-3.3a6852422fe8e287ed23.png",
@@ -15,11 +15,11 @@
     "index.html": "/my-3d-studio/index.html",
     "static/media/user-icon.svg": "/my-3d-studio/static/media/user-icon.04797d44caa834b2f191c0d97e4defe1.svg",
     "main.c64b77ed.css.map": "/my-3d-studio/static/css/main.c64b77ed.css.map",
-    "main.097d376a.js.map": "/my-3d-studio/static/js/main.097d376a.js.map",
+    "main.ed4d63a2.js.map": "/my-3d-studio/static/js/main.ed4d63a2.js.map",
     "453.b20a2384.chunk.js.map": "/my-3d-studio/static/js/453.b20a2384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c64b77ed.css",
-    "static/js/main.097d376a.js"
+    "static/js/main.ed4d63a2.js"
   ]
 }
